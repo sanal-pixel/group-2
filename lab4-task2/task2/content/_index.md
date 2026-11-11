@@ -7,8 +7,9 @@ title = 'Home'
 
 # Welcome to our site
 
-We are Group 2.
+We are Group 2, a group of students creating a collaborative website.
 
-we are a group of students making a collabrative site.
+We are learning about Docker and containers, and it has been an interesting experience.
 
-Each one of you should change the contents of this file.
+We have learned that Docker is an efficient way of packaging, transporting, and hosting software across different operating systems.+++
+
