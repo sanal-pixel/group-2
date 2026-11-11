@@ -7,4 +7,4 @@ title = 'Change title'
 
 # About me
 
-Rename this file and add some content.
+Hi, I am sanal. An information science major studying docker.
