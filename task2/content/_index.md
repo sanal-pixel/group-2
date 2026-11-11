@@ -7,6 +7,8 @@ title = 'Home'
 
 # Welcome to our site
 
-We are Group ...
+We are **Group 2** (*Sunayana, Sanal, Aryan, Nowmnan*). We are currently learning **git** and **docker** in our *Lab 4 acitivity*.
 
-Each one of you should change the contents of this file.
+It is fun and interesting to work with.
+
+This page was updated by Sunayana.
