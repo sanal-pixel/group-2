@@ -1,0 +1,4 @@
+baseURL = 'https://hugo.test1.stp.apucomputing.in/'
+locale = 'en-us'
+title = 'Software Tools and Practices'
+theme = 'PaperMod'
