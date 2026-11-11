@@ -7,6 +7,6 @@ title = 'Home'
 
 # Welcome to our site
 
-We are Group ...
+We are Group 2
 
-Each one of you should change the contents of this file.
+My name is aryan and this is my version of _index.html.
