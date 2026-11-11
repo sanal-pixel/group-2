@@ -7,6 +7,8 @@ title = 'Home'
 
 # Welcome to our site
 
-We are Group ...
+We are Group 2.
+
+we are a group of students making a collabrative site.
 
 Each one of you should change the contents of this file.
